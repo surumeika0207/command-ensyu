@@ -16,4 +16,3 @@ public class Bmi {
         System.out.println(surume2);
     }
 }
-}
